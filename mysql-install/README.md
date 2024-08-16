@@ -12,6 +12,8 @@
 
 ![mysql 1](https://github.com/user-attachments/assets/77e588a3-6fd3-4e88-aadf-675d614f256e)
 
+
+
 #### Step 4: Click on "Ok" to continue the installation
 
 ![mysql 2](https://github.com/user-attachments/assets/3ba60331-fc98-4c08-9344-453304e57498)
