@@ -7,7 +7,7 @@
 #### #####
 
 
-#### Step 2: Click on "(mysql-installer-community-8.0.39.0.msi)" to download the installer. Note: the installer is 303.6Mb in size
+#### Step 2: Click on "Download" of "(mysql-installer-community-8.0.39.0.msi)" to download the installer. Note: the installer is 303.6Mb in size
 
 ![mysql 00](https://github.com/user-attachments/assets/1ef873ba-8354-4ece-821b-922606c7cc47)
 
