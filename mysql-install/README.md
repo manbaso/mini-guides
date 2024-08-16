@@ -101,84 +101,84 @@
 #### #####
 
 
-#### Step 15:
+#### Step 15: Accept defaults for "Server File Permissions", then click "Next" to continue
 
 ![mysql 14](https://github.com/user-attachments/assets/0933bf01-ba62-4f03-a6b0-21a56fbe7ea1)
 
 #### #####
 
 
-#### Step 16:
+#### Step 16: The "Apply configuration" section requires that you click "Execute" to continue
 
 ![mysql 15](https://github.com/user-attachments/assets/e49e40e8-d837-4539-a295-15911483908a)
 
 #### #####
 
 
-#### Step 17:
+#### Step 17: After applying the configuration, click on "Finish"
 
 ![mysql 16](https://github.com/user-attachments/assets/23329030-3f75-4e93-b4f9-ae6477ce21ae)
 
 #### #####
 
 
-#### Step 18:
+#### Step 18: Click "Next" to apply configuration for other MySQL products
 
 ![mysql 17](https://github.com/user-attachments/assets/37f8efd2-313c-46a6-a75d-6497a3c788a1)
 
 #### #####
 
 
-#### Step 19:
+#### Step 19: This is an optional step. You can check "Bootstrap MySQL Router for use with InnoDB Cluster,  Add "localhost" as "Hostname" and click on "Finish"
 
 ![mysql 18](https://github.com/user-attachments/assets/43928dfe-251d-4bb9-8308-1e8b66cec1bf)
 
 #### #####
 
 
-#### Step 20:
+#### Step 20: Click on "Next" to finalize "Product Configuration"
 
 ![mysql 19](https://github.com/user-attachments/assets/8c678597-c4d0-43ec-863b-61d19c45032b)
 
 #### #####
 
 
-#### Step 21:
+#### Step 21: Input your "User Name", and "Password" and click on "Check" to validate your credentials
 
 ![mysql 20](https://github.com/user-attachments/assets/3e2b8c92-77ce-4965-86e7-4e8511193722)
 
 #### #####
 
 
-#### Step 22:
+#### Step 22: Click "Next"
 
 ![mysql 21](https://github.com/user-attachments/assets/f984272c-c6d1-494e-8111-98937ab56fee)
 
 #### #####
 
 
-#### Step 23:
+#### Step 23: Click "Execute"
 
 ![mysql 22](https://github.com/user-attachments/assets/63997705-838d-472d-984c-fbb911af42a8)
 
 #### #####
 
 
-#### Step 24:
+#### Step 24: Click "Finish"
 
 ![mysql 23](https://github.com/user-attachments/assets/5134c7d1-84f5-4042-96c0-528f2239cddd)
 
 #### #####
 
 
-#### Step 25:
+#### Step 25: Click "Next"
 
 ![mysql 24](https://github.com/user-attachments/assets/bf02951d-a56e-4d9f-bc08-f6b4bc3eea9c)
 
 #### #####
 
 
-#### Step 26:
+#### Step 26: Click "Finish" in the "Installation Complete Section"
 
 ![mysql 25](https://github.com/user-attachments/assets/8868813b-c3cd-4f38-90ee-f8a051c00009)
 
