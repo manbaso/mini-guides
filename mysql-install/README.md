@@ -4,9 +4,14 @@
     
 ![mysql 0](https://github.com/user-attachments/assets/d3cf1bfa-7a74-480a-90d9-b495a6585956)
 
+
+
 #### Step 2: Click on "(mysql-installer-community-8.0.39.0.msi)" to download the installer. Note: the installer is 303.6Mb in size
 
 ![mysql 00](https://github.com/user-attachments/assets/1ef873ba-8354-4ece-821b-922606c7cc47)
+
+
+
 
 #### Step 3: Locate your downloaded installer and double-click on it
 
@@ -14,9 +19,11 @@
 
 
 
+
 #### Step 4: Click on "Ok" to continue the installation
 
 ![mysql 2](https://github.com/user-attachments/assets/3ba60331-fc98-4c08-9344-453304e57498)
+
 
 
 
