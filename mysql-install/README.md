@@ -16,6 +16,8 @@
 
 ![mysql 2](https://github.com/user-attachments/assets/3ba60331-fc98-4c08-9344-453304e57498)
 
+
+
 #### Step 5: Choosing a Step-up type select "Full" and click "Next"
 
 ![mysql 4](https://github.com/user-attachments/assets/84ec472a-1f38-460c-a4e4-140fc4f5be8b)
