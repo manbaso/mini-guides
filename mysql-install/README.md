@@ -73,28 +73,28 @@
 #### #####
 
 
-#### Step 11: Accept all default settings for networking and proceed by clicking "Next"
+#### Step 11: Accept all default settings for "Type and Networking" and proceed by clicking "Next"
 
 ![mysql 10](https://github.com/user-attachments/assets/7691d595-1cb3-43a7-be81-bb7bcf18b6f8)
 
 #### #####
 
 
-#### Step 12:
+#### Step 12: For "Authentication Method", accept the recommended mode of authentication and click "Next at the bottom of the pane
 
 ![mysql 11](https://github.com/user-attachments/assets/bfc210ef-24d2-4c9d-b35a-404df74bca92)
 
 #### #####
 
 
-#### Step 13:
+#### Step 13: Input your root password for both "MySQL Root Password" and "Repeat Password." Click on "Next" to go to the next step
 
 ![mysql 12](https://github.com/user-attachments/assets/6b8e4959-1d34-479f-80b5-2969d9a1f983)
 
 #### #####
 
 
-#### Step 14:
+#### Step 14: Accept Defaults for "Windows Service" Configuration and proceed by clicking "Next"
 
 ![mysql 13](https://github.com/user-attachments/assets/2508c6e6-d0a4-482c-9dc4-cd3185680366)
 
