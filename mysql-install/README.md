@@ -1,3 +1,7 @@
+#### Go to the official MySQL downloads page and download the MySQL Installer for your operating system. Use the link below
+
+    https://dev.mysql.com/downloads/installer/
+    
 ![mysql 0](https://github.com/user-attachments/assets/d3cf1bfa-7a74-480a-90d9-b495a6585956)
 
 ![mysql 00](https://github.com/user-attachments/assets/1ef873ba-8354-4ece-821b-922606c7cc47)
