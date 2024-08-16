@@ -16,15 +16,11 @@
 
 ![mysql 2](https://github.com/user-attachments/assets/3ba60331-fc98-4c08-9344-453304e57498)
 
-#### Step 5: 
-
-![mysql 3](https://github.com/user-attachments/assets/8d506059-f1c7-4271-93d5-2ecf2c419549)
-
-#### Step 5: 
+#### Step 5: Choosing a Step-up type select "Full" and click "Next"
 
 ![mysql 4](https://github.com/user-attachments/assets/84ec472a-1f38-460c-a4e4-140fc4f5be8b)
 
-#### Step 6:
+#### Step 6: Click on "Execute" to download MySQL packages
 
 ![mysql 5](https://github.com/user-attachments/assets/11a95806-39b8-4f6b-9734-14139ba8db29)
 
