@@ -52,28 +52,28 @@
 
 
 
-#### Step 8: Click on "Execute" 
+#### Step 8: Click on "Execute" to install "MySQL" products
 
 ![mysql 7](https://github.com/user-attachments/assets/1a921429-1969-4354-b0ce-fa6fad6b42c0)
 
 #### #####
 
 
-#### Step 9: Click on "Next"
+#### Step 9: Click on "Next" to continue the installation
 
 ![mysql 8](https://github.com/user-attachments/assets/98387fb1-d67b-405a-a4bf-4ce5b80ce909)
 
 #### #####
 
 
-#### Step 10: Click on "Next"
+#### Step 10: Click on "Next" to configure the installation
 
 ![mysql 9](https://github.com/user-attachments/assets/487295a1-a2f2-4649-a913-0041163c3533)
 
 #### #####
 
 
-#### Step 11:
+#### Step 11: Accept all default settings for networking and proceed by clicking "Next"
 
 ![mysql 10](https://github.com/user-attachments/assets/7691d595-1cb3-43a7-be81-bb7bcf18b6f8)
 
