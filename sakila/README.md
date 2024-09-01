@@ -1,12 +1,24 @@
+- STEP 1:
+
 ![sakila 1](https://github.com/user-attachments/assets/7e279590-4e47-4b72-8e2e-124247595185)
+
+- STEP 2:
 
 ![sakila 2](https://github.com/user-attachments/assets/0fdf4188-d85a-41bc-8e9a-5c9f30d76e74)
 
+- STEP 3:
+
 ![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
+
+- STEP 4:
 
 ![sakila 4](https://github.com/user-attachments/assets/7a611c78-71c1-4f48-a7b1-2876a551a952)
 
+- STEP 5:
+
 ![sakila 5](https://github.com/user-attachments/assets/da5035db-6a81-4541-a0dd-081bfb43ea5c)
+
+- STEP 6:
 
 ![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
 
