@@ -26,9 +26,9 @@
 
 - STEP 8: Type the following MySQL queries into the query tab as shown in the screenshot
 
-        drop sakila
+        drop sakila;
     
-        show databases
+        show databases;
 
  click on the execute icon highlighted in color yellow
 
