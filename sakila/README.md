@@ -12,25 +12,25 @@
 
 ![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
 
-- STEP 5: Explore the search box of Windows to open MySQL workbench 
+- STEP 5: Confirm the Sakila folder in the same location as the downloaded zip file
 
 ![sakila 4](https://github.com/user-attachments/assets/7a611c78-71c1-4f48-a7b1-2876a551a952)
 
-- STEP 6: Use any connection of your choice. The connection is necessary to connect to the MySQL server. For example, you could click on "local"
+- STEP 6: Explore the search box of Windows to open MySQL workbench 
 
 ![sakila 5](https://github.com/user-attachments/assets/da5035db-6a81-4541-a0dd-081bfb43ea5c)
 
-- STEP 7: Type the following MySQL queries into the query tab as shown in the screenshot
+- STEP 7: Use any connection of your choice. The connection is necessary to connect to the MySQL server. For example, you could click on "local"
+
+![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
+
+- STEP 8: Type the following MySQL queries into the query tab as shown in the screenshot
 
     drop sakila
 
     show databases
 
- click on the execute icon highlighted in color yellow 
-
-![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
-
-- STEP 8:
+ click on the execute icon highlighted in color yellow
 
 ![sakila 7](https://github.com/user-attachments/assets/dc1c4a17-a131-49ee-981b-aec4553818c8)
 
