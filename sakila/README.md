@@ -1,46 +1,66 @@
-- STEP 1:
+- STEP 1: Go to the following link to download  the Sakila MySQL sample database
+
+- STEP 2: Click on the "Zip" option for the Sakila database
 
 ![sakila 1](https://github.com/user-attachments/assets/7e279590-4e47-4b72-8e2e-124247595185)
 
-- STEP 2:
+- STEP 3: Locate the location of the downloaded zip file, extract the file by right-clicking on the file and click on "Extract All"
 
 ![sakila 2](https://github.com/user-attachments/assets/0fdf4188-d85a-41bc-8e9a-5c9f30d76e74)
 
-- STEP 3:
+- STEP 4:
 
 ![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
 
-- STEP 4:
+- STEP 5:
 
 ![sakila 4](https://github.com/user-attachments/assets/7a611c78-71c1-4f48-a7b1-2876a551a952)
 
-- STEP 5:
+- STEP 6:
 
 ![sakila 5](https://github.com/user-attachments/assets/da5035db-6a81-4541-a0dd-081bfb43ea5c)
 
-- STEP 6:
+- STEP 7:
 
 ![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
 
--- STEP 7:
+- STEP 8:
 
 ![sakila 7](https://github.com/user-attachments/assets/dc1c4a17-a131-49ee-981b-aec4553818c8)
 
+- STEP 9:
+
 ![sakila 8](https://github.com/user-attachments/assets/032d7646-1cb2-414f-aec8-76739af65ada)
+
+- STEP 10:
 
 ![sakila 9](https://github.com/user-attachments/assets/5d5d93de-3654-43d6-bfb6-e03788c98c6d)
 
+- STEP 11:
+
 ![sakila 11](https://github.com/user-attachments/assets/20bbf64c-47bf-4d34-8fb5-18fc12e4d323)
+
+- STEP 12:
 
 ![sakila 12](https://github.com/user-attachments/assets/a4bdaa43-3fc8-4cde-be73-813bc69b2620)
 
+- STEP 13:
+
 ![sakila 13](https://github.com/user-attachments/assets/997aeffd-6f32-41ed-8063-4a45bf52ad2b)
+
+- STEP 14:
 
 ![sakila 14](https://github.com/user-attachments/assets/fbcbb126-462d-4d5a-8e80-c9c509a0b610)
 
+- STEP 15:
+
 ![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
 
+- STEP 16:
+
 ![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
+
+- STEP 17:
 
 ![sakila 17](https://github.com/user-attachments/assets/686a2698-b47f-4727-9fe5-7e3666d5ab0b)
 
