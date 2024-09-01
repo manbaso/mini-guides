@@ -42,9 +42,9 @@
 
 ![sakila 9](https://github.com/user-attachments/assets/5d5d93de-3654-43d6-bfb6-e03788c98c6d)
 
-- STEP 11: Click on ⚡ icon to execute the MySQL query
+- STEP 11: Click on the "Execute query" icon highlighted by color yellow in the screenshot below to execute the MySQL query
 
-![sakila 11](https://github.com/user-attachments/assets/20bbf64c-47bf-4d34-8fb5-18fc12e4d323)
+![sakila new](https://github.com/user-attachments/assets/c9447043-a43a-4483-a901-5417f28b55e9)
 
 - STEP 12:
 
