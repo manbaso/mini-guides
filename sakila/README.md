@@ -22,6 +22,8 @@
 
 ![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
 
+-- STEP 7:
+
 ![sakila 7](https://github.com/user-attachments/assets/dc1c4a17-a131-49ee-981b-aec4553818c8)
 
 ![sakila 8](https://github.com/user-attachments/assets/032d7646-1cb2-414f-aec8-76739af65ada)
