@@ -34,15 +34,15 @@
 
 ![sakila 7](https://github.com/user-attachments/assets/dc1c4a17-a131-49ee-981b-aec4553818c8)
 
-- STEP 9:
+- STEP 9: Click on "Open a SQL script file in a new query tab" icon indicated by the yellow color in the screenshot to open an SQL text file 
 
 ![sakila 8](https://github.com/user-attachments/assets/032d7646-1cb2-414f-aec8-76739af65ada)
 
-- STEP 10:
+- STEP 10: Navigate to where the Sakila folder is located. Double-click on the schema file i.e "sakila-schema" 
 
 ![sakila 9](https://github.com/user-attachments/assets/5d5d93de-3654-43d6-bfb6-e03788c98c6d)
 
-- STEP 11:
+- STEP 11: Click on ⚡ icon to execute the MySQL query
 
 ![sakila 11](https://github.com/user-attachments/assets/20bbf64c-47bf-4d34-8fb5-18fc12e4d323)
 
