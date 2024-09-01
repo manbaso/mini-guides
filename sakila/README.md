@@ -4,23 +4,29 @@
 
 ![sakila 1](https://github.com/user-attachments/assets/7e279590-4e47-4b72-8e2e-124247595185)
 
-- STEP 3: Locate the location of the downloaded zip file, extract the file by right-clicking on the file and click on "Extract All"
+- STEP 3: Locate the location of the downloaded zip file, extract the file by right-clicking on the file and clicking on "Extract All"
 
 ![sakila 2](https://github.com/user-attachments/assets/0fdf4188-d85a-41bc-8e9a-5c9f30d76e74)
 
-- STEP 4:
+- STEP 4: Click on "Extract" to finish the un-zipping of the file
 
 ![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
 
-- STEP 5:
+- STEP 5: Explore the search box of Windows to open MySQL workbench 
 
 ![sakila 4](https://github.com/user-attachments/assets/7a611c78-71c1-4f48-a7b1-2876a551a952)
 
-- STEP 6:
+- STEP 6: Use any connection of your choice. The connection is necessary to connect to the MySQL server. For example, you could click on "local"
 
 ![sakila 5](https://github.com/user-attachments/assets/da5035db-6a81-4541-a0dd-081bfb43ea5c)
 
-- STEP 7:
+- STEP 7: Type the following MySQL queries into the query tab as shown in the screenshot
+
+    drop sakila
+
+    show databases
+
+ click on the execute icon highlighted in color yellow 
 
 ![sakila 6](https://github.com/user-attachments/assets/acdca308-a814-4c0d-a1da-89e0f9063d1a)
 
