@@ -46,27 +46,31 @@
 
 ![sakila new](https://github.com/user-attachments/assets/c9447043-a43a-4483-a901-5417f28b55e9)
 
-- STEP 12:
+- STEP 12: Click on "Open a SQL script file in a new query tab" icon indicated by the yellow color in the screenshot to open an SQL text file
 
-![sakila 12](https://github.com/user-attachments/assets/a4bdaa43-3fc8-4cde-be73-813bc69b2620)
+![sakila 8](https://github.com/user-attachments/assets/032d7646-1cb2-414f-aec8-76739af65ada)
 
 - STEP 13:
 
-![sakila 13](https://github.com/user-attachments/assets/997aeffd-6f32-41ed-8063-4a45bf52ad2b)
+![sakila 12](https://github.com/user-attachments/assets/a4bdaa43-3fc8-4cde-be73-813bc69b2620)
 
 - STEP 14:
 
-![sakila 14](https://github.com/user-attachments/assets/fbcbb126-462d-4d5a-8e80-c9c509a0b610)
+![sakila 13](https://github.com/user-attachments/assets/997aeffd-6f32-41ed-8063-4a45bf52ad2b)
 
 - STEP 15:
 
-![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
+![sakila 14](https://github.com/user-attachments/assets/fbcbb126-462d-4d5a-8e80-c9c509a0b610)
 
 - STEP 16:
 
-![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
+![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
 
 - STEP 17:
+
+![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
+
+- STEP 18:
 
 ![sakila 17](https://github.com/user-attachments/assets/686a2698-b47f-4727-9fe5-7e3666d5ab0b)
 
