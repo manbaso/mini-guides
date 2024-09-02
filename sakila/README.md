@@ -1,3 +1,13 @@
+# Importing the Sakila MySQL Sample Database
+
+This documentation provides a step-by-step guide for downloading, extracting, and importing the Sakila MySQL sample database into MySQL Workbench. The Sakila database is a popular sample database provided by MySQL, used for learning and demonstration purposes.
+
+## Prerequisites
+Before you begin, ensure you have the following:
+
+- MySQL Workbench: Installed on your machine.
+- Internet Access: To download the Sakila sample database.
+
 ### STEP 1: Go to the following link to download  the Sakila MySQL sample database
 
 #### -----
