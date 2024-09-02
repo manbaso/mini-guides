@@ -142,11 +142,13 @@ In the new query tab, enter the following SQL command to list all databases:
 
           show databases
   
-  Next, click the "Execute query" icon, highlighted in yellow, to run the query. You should see the Sakila database as shown by the blue marker in the screenshot.
+Click the "Execute query" icon, highlighted in yellow, to run the command. You should see sakila listed among the databases, confirming that the import was successful.
 
 ![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
 
-### STEP 17: Please click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
+### STEP 17: List All Tables in the Sakila Database
+
+Next, switch to the Sakila database and list all its tables. Clear the query panel and enter the following commands:
 
 #### -----
 
@@ -156,20 +158,22 @@ In the new query tab, enter the following SQL command to list all databases:
         
           show tables
 
-  Click the "Execute query" icon, highlighted in yellow, to run the query.
+Click the "Execute query" icon, highlighted in yellow, to run the commands. This will display all the tables within the Sakila database, confirming that the schema was correctly set up.
 
 ![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
 
-### STEP 18:
+### STEP 18: Query the Sakila Database
+
+Finally, let's run a sample query to ensure the data was imported correctly. Clear the query panel and enter the following command:
 
 #### -----
 
-  Clear the query panel and paste the following query:
+Clear the query panel and paste the following query:
 
           select * from actor
 
-  Next click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
-
+Click the "Execute query" icon, highlighted in yellow, to run the query. This will return all records from the actor table, providing a sample of the available data in your Sakila database.
+  
 ![sakila 17](https://github.com/user-attachments/assets/686a2698-b47f-4727-9fe5-7e3666d5ab0b)
 
 
