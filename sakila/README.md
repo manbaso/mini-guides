@@ -62,15 +62,35 @@
 
   ![sakila new2](https://github.com/user-attachments/assets/124e46e9-409c-49e6-8a31-e0adb2f3913d)
 
-- STEP 16: Please click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
+- STEP 16: Copy the following and paste into the query tab
+
+          show databases
+  
+  Next click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
+
+  We should have sakila database as shown by the blue marker in the sreenshot
 
 ![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
 
 - STEP 17: Please click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
 
+  Clear the query panel and paste the following queries into the same
+
+          use sakila
+        
+          show tables
+
+  Next click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
+
 ![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
 
 - STEP 18:
+
+  Clear the query panel and paste the following queries into the same
+
+          select * from actor
+
+  Next click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
 
 ![sakila 17](https://github.com/user-attachments/assets/686a2698-b47f-4727-9fe5-7e3666d5ab0b)
 
