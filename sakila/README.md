@@ -58,11 +58,15 @@
 
 ![sakila 13](https://github.com/user-attachments/assets/997aeffd-6f32-41ed-8063-4a45bf52ad2b)
 
-- STEP 15:
+- Step 15: Open a new SQL query tab.
+
+  ![sakila new2](https://github.com/user-attachments/assets/124e46e9-409c-49e6-8a31-e0adb2f3913d)
+
+- STEP 16: Please click the "Execute query" icon, highlighted in yellow in the screenshot below, to run the MySQL query.
 
 ![sakila 15](https://github.com/user-attachments/assets/e7212c53-0963-46a0-a3bb-36094cbe1a72)
 
-- STEP 17:
+- STEP 17: 
 
 ![sakila 16](https://github.com/user-attachments/assets/d0d3f59c-c898-42cf-8120-28b9d7f84ea4)
 
