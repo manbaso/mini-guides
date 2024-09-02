@@ -10,7 +10,7 @@ Before you begin, ensure you have the following:
 
 ### STEP 1: Download the Sakila Database
 
-Begin by downloading the Sakila MySQL sample database. You can download it from the official MySQL website or from any other reliable source. The download will be in a compressed (zip) format.
+Begin by downloading the Sakila MySQL sample database. You can download it from the official MySQL website. The download will be in a compressed (zip) format.
 
 #### -----
 
