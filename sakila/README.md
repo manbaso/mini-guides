@@ -2,6 +2,8 @@
 
 #### -----
 
+        https://dev.mysql.com/doc/index-other.html
+
 ### STEP 2: Click on the "Zip" option for the Sakila database
 
 #### -----
