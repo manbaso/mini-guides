@@ -10,6 +10,8 @@
 
 ### STEP 4: Click on "Extract" to complete the unzipping process.
 
+#### ####
+
 ![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
 
 ### STEP 5: Confirm that the Sakila folder is located in the same directory as the downloaded zip file.
