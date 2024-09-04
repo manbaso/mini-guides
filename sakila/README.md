@@ -22,7 +22,7 @@ After navigating to the download page, locate and click on the "Zip" option to d
 
 #### -----
 
-![sakila 1](https://github.com/user-attachments/assets/7e279590-4e47-4b72-8e2e-124247595185)
+![sakila 1](https://github.com/user-attachments/assets/72c56e65-8034-4a36-a060-fd41051626b9)
 
 ### STEP 3: Extract the ZIP File
 
@@ -30,7 +30,7 @@ Once the download is complete, navigate to the directory where the file was save
 
 #### -----
 
-![sakila 2](https://github.com/user-attachments/assets/0fdf4188-d85a-41bc-8e9a-5c9f30d76e74)
+![sakila 2](https://github.com/user-attachments/assets/da839f50-adb7-447c-a709-fecee12ec32e)
 
 ### STEP 4: Complete the Extraction
 
@@ -38,7 +38,7 @@ A prompt will appear asking where to extract the files. Simply click "Extract" t
 
 #### -----
 
-![sakila 3](https://github.com/user-attachments/assets/b6944d18-a7b7-4633-b1a0-9776e8fbe30c)
+![sakila 3](https://github.com/user-attachments/assets/a8df2159-de94-4111-98c6-36d965662588)
 
 ### STEP 5: Verify the Extraction
 
@@ -54,7 +54,7 @@ Now, open MySQL Workbench, which you will use to import the Sakila database. You
 
 #### -----
 
-![sakila 5](https://github.com/user-attachments/assets/da5035db-6a81-4541-a0dd-081bfb43ea5c)
+![sakila 5](https://github.com/user-attachments/assets/67f4b350-c6af-403b-a82c-40e4a6e31586)
 
 ### STEP 7: Connect to the MySQL Server
 
@@ -76,7 +76,8 @@ If a previous version of the Sakila database exists, you may want to remove it b
 
 Click the "Execute query" icon, which is highlighted in yellow in the screenshot, to run the commands. This will drop the existing Sakila database and show all databases currently on your MySQL server.
 
-![sakila 7](https://github.com/user-attachments/assets/dc1c4a17-a131-49ee-981b-aec4553818c8)
+![sakila 7](https://github.com/user-attachments/assets/63058d19-69f7-42b7-9b84-b2fee01bc0b9)
+
 
 ### STEP 9: Open the SQL Script for the Sakila Schema
 
